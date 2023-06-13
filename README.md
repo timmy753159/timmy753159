@@ -14,16 +14,13 @@
     </tr>
   </tbody>
 </table>
-<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=Ting Yu Ling
-&style=flat-square&&label=Profile+Views&color=50A1FF">
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=timmy753159&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ---
 
 ### Github Analytics
-<a href="https://github.com/Ting Yu Ling
-">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ting Yu Ling
-&count_private=true&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/timmy753159">
+  <img src="https://github-readme-stats.vercel.app/api?username=timmy753159&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
