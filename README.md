@@ -19,11 +19,11 @@
 ---
 
 ### Github Analytics
-<a href="https://github.com/htchu">
+<a href="https://github.com/timmy753159">
   <img src="https://github-readme-stats.vercel.app/api?username=timmy753159&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
-<a href="https://github.com/htchu">
+<a href="https://github.com/timmy753159">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timmy753159&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
